@@ -3,7 +3,7 @@ This working repository explores battery energy storage system models, and some 
 
 Note: This is still a development repository.
 
-** Battery Energy Storage System (BESS) **
+**Battery Energy Storage System (BESS)**
 
 ## Discussion of Battery Models ##
 Many published reviews have details on the classification of BESS models. Typically, models are classified by their models complexity, or their chemical models.
