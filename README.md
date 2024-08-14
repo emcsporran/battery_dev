@@ -1,5 +1,7 @@
 # battery_dev #
-This repository explores battery energy storage system models, and some exploration code on using the model in optimization and control programs.
+This working repository explores battery energy storage system models, and some exploration code on using the model in optimization and control programs.
+
+Note: This is still a development repository.
 
 ** Battery Energy Storage System (BESS) **
 
